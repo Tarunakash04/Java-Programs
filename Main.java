@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-
+// consumer & producer problem code
 class SharedBuffer {
     private LinkedList<Integer> buffer = new LinkedList<>();
     private int capacity;
